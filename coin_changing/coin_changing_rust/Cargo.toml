@@ -1,0 +1,10 @@
+[package]
+name = "coin_changing"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "coin_changing"
+path = "src/coin_changing.rs"
