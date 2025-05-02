@@ -1,0 +1,4 @@
+(executable
+ (public_name coin_changing_ocaml)
+ (name main)
+ (libraries coin_changing_ocaml))

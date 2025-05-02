@@ -1,0 +1,2 @@
+(library
+ (name coin_changing_ocaml))

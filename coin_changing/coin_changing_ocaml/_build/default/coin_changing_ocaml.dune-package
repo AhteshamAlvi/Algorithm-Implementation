@@ -1,0 +1,4 @@
+(lang dune 3.17)
+(name coin_changing_ocaml)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (coin_changing_ocaml)))
