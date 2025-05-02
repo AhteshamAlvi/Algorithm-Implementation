@@ -11,7 +11,7 @@ def coin_change(C, n, A = []):
     return A
 
 def main():
-    B = coin_change([1, 5, 10, 25], 100)
-    print(B[99])
+    B = coin_change([1, 5, 10, 25], 1434)
+    print(B[1023])
 
 main()
