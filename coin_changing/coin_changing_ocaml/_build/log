@@ -1,4 +1,4 @@
-# dune exec coin_changing_ocaml
+# dune utop
 # OCAMLPARAM: unset
 # Shared cache: enabled-except-user-rules
 # Shared cache location: /Users/ahteshamalvi/.cache/dune/db
@@ -14,4 +14,4 @@
 #  ; build_dir = In_build_dir "default"
 #  ; instrument_with = []
 #  }
-$ /Users/ahteshamalvi/.opam/5.2.0/bin/ocamlc.opt -config > /var/folders/rs/fv7q9bln0tx2rdy0fhbblvsm0000gn/T/dune_b34860_output
+$ /Users/ahteshamalvi/.opam/5.2.0/bin/ocamlc.opt -config > /var/folders/rs/fv7q9bln0tx2rdy0fhbblvsm0000gn/T/dune_a19606_output

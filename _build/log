@@ -1,0 +1,6 @@
+# dune init executable coin_changing -p coin_changing_ocaml
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/ahteshamalvi/.cache/dune/db
+# Workspace root: /Users/ahteshamalvi/PersonalProjects/Algorithm-Implementation
+# Auto-detected concurrency: 12

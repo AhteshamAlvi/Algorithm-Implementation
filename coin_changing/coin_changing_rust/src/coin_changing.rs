@@ -18,7 +18,6 @@ fn coin_changing(c: &Vec<i32>, n: i32)-> Vec<i32> {
     return a
 }
 
-
 fn main() {
     let b = vec![1,5,10,25];
     let d = coin_changing(&b, 1434);
